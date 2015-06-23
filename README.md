@@ -4,7 +4,6 @@ Exemplo de conexão com servidor proxy SOCKS5.
 Em casos de dúvidas: http://tools.ietf.org/html/rfc1928
 
 
-
 Compilando...
 
 - windows...
