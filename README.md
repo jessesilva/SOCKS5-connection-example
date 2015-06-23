@@ -8,8 +8,10 @@ Em casos de dúvidas: http://tools.ietf.org/html/rfc1928
 Compilando...
 
 - windows...
-      gcc.exe socks5.c -o socks -lws2_32 -std=c99
+
+gcc.exe socks5.c -o socks -lws2_32 -std=c99
 
 
 - Linux...
+
       gcc socks5.c -o socks5 -std=c99
